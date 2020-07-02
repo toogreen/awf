@@ -46,7 +46,7 @@ function sql_limit($count, $offset = 0) {
 // MySQL Database settings
 $db_host        = "localhost";
 $db_name        = "awf";
-$db_username    = "mysql-admin";
+$db_username    = "awf";
 $db_password    = "toosad";
 $db_table_prefix= "1_";
  

@@ -8,7 +8,7 @@
         Last update: 20.12.2001
 */
 
-error_reporting(-1); // Disable Warnings
+error_reporting(1); // Disable Warnings
 
 define('AWF_VERSION', '102');
 

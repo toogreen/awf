@@ -1,0 +1,27 @@
+INSTALLATION
+
+There is a cute install script in this folder.  To install geektalkd, just type
+./install
+in this folder.
+
+It configures geektalkd to use Net::Ident if you have it, and then copies the
+scripts to the install directory, and places a symlink in /usr/local/sbin.
+
+Options to ./install:
+    --prefix=/path/to/install
+        Sets the path where geektald will be installed.
+        Directories will be created as necessary.  The default is
+        /usr/local/geektalkd.
+
+    --no-symlink
+        Do not install a symlink for the binary in /usr/local/sbin
+
+    --symlink-path=/path/to/symlink
+        Install the geektalkd symlink in /path/to/symlink.  The
+        default is /usr/local/sbin.
+
+PROBLEMS
+
+Uhm, I used options for the BSD/GNU `install` so it might not work on SysV
+`install` programs that aren't backwards compatible.  But I checked, and the
+Solaris and Irix version both are, so ehhh!

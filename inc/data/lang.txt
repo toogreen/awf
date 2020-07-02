@@ -1,0 +1,2 @@
+Deutsch|Sprache|&Uuml;bersicht|eMail Adresse|Passwort|Neuer Benutzer
+English|Language|Navigation|Email address|Password|New User

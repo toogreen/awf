@@ -1,0 +1,4 @@
+# This is the file .htaccess
+# RewriteEngine On
+# RewriteRule !\.(png|jpg|gif|php|css|jar|conf)$ /usr1/public/documents/net/awf/rewrite.php
+DirectoryIndex index.html index.php index.php3

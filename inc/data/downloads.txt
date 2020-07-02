@@ -1,0 +1,4 @@
+Media Database|http://www.mediadatabase.de/
+MyNotepad|http://www.nulldevice.de/michael/download/win32/notepad.zip
+Doom Launcher|http://www.nulldevice.de/michael/download/win32/doomlauncher.zip
+Shadowrun CEP|http://www.nulldevice.de/michael/download/win32/shadowrun.zip

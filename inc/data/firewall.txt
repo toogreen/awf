@@ -1,0 +1,3 @@
+Def. Firewall: Keine Ahnung, ist mir aber auch Wurst. Ich installiere da halt einen Router mit
+Paketfilter fuer eingehende TCP-Verbindungen und gehe dann weg. Wenn es dann jemand Firewall oder
+Wuerstchenbude nennt, ist das nicht mein Problem. (Hans, CCC Congressnet-Mailinglist)
